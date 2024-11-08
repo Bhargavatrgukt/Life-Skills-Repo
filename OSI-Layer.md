@@ -132,4 +132,12 @@ Through this example, we can see how each OSI layer plays a role in ensuring suc
 ## Conclusion
 The OSI Model remains a foundational concept in networking. Despite newer models like TCP/IP gaining practical favor, the OSI Model is critical for understanding network architecture, designing communication protocols, and ensuring interoperability across diverse systems. It continues to be a valuable tool for network professionals, providing a structured approach to data transmission and network troubleshooting.
 
+## References
+
+- [GeeksforGeeks - Open Systems Interconnection Model (OSI)](https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/)
+- [JavaTpoint - OSI Model](https://www.javatpoint.com/osi-model)
+
+
+
+
 
